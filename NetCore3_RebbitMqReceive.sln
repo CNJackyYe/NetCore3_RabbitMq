@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore3_RabbitMq", "NetCore3_RabbitMq\NetCore3_RabbitMq.csproj", "{75F3686B-A5B3-4ED3-BFEB-053B93288C91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore3_RebbitMqReceive", "NetCore3_RebbitMqReceive\NetCore3_RebbitMqReceive.csproj", "{FAB2663E-87B8-442E-881E-E5F124B20679}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{75F3686B-A5B3-4ED3-BFEB-053B93288C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75F3686B-A5B3-4ED3-BFEB-053B93288C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75F3686B-A5B3-4ED3-BFEB-053B93288C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75F3686B-A5B3-4ED3-BFEB-053B93288C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB2663E-87B8-442E-881E-E5F124B20679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB2663E-87B8-442E-881E-E5F124B20679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB2663E-87B8-442E-881E-E5F124B20679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB2663E-87B8-442E-881E-E5F124B20679}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9E5E82F1-F477-4C18-B0B7-80C8274619D5}
+		SolutionGuid = {E2DEF476-B94F-45DB-91EE-F67D57914CED}
 	EndGlobalSection
 EndGlobal

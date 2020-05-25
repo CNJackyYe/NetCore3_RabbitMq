@@ -1,6 +1,6 @@
 using System;
 
-namespace NetCore3_RabbitMq
+namespace NetCore3_RebbitMqReceive
 {
     public class WeatherForecast
     {
